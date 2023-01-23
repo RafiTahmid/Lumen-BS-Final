@@ -187,9 +187,43 @@
 
 
 .subscription{
-  margin-top: 80px;
-  
+  background-color: #3ABF7C26;
+  padding: 100px 0px 100px 0px;
 }
+
+.form-box{
+  border-radius: 10px;
+  /* box-shadow: 10px 10px 15px #f4f4f4, -10px -10px 15px #f4f4f4; */
+}
+
+.form-box input{
+  font-size: 18px;
+  color: #2C2C2C;
+  padding: 10px ;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+
+.form-content button{
+  color: white;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 6px;
+  background: #FFA425;
+}
+
+.footer{
+  
+  padding: 100px;
+  background: #4A4949;
+  color: #FFFFFF;
+}
+
+
+
+
 
 
 /* Media query For Responsiveness */

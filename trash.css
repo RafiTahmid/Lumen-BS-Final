@@ -20,3 +20,30 @@ d-flex justify-content-between mt-5 .content-section {
   justify-content: space-between;
   align-items: center;
 }
+
+.form-box input{
+  font-size: 18px;
+  color: #2C2C2C;
+  padding: 15px 30px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+
+.form-box input{
+  font-size: 18px;
+  color: #2C2C2C;
+  padding: 10px ;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+
+.form-content button{
+  color: white;
+  padding: 15px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 6px;
+  background: #FFA425;
+}
