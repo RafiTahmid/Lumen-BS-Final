@@ -155,13 +155,37 @@
 }
 
 .seminar-card{
-  border: 1px solid;
+  box-shadow: 0 4px 4px 0 rgba(29, 28, 28, 0.2), 0 6px 20px 0 rgba(19, 18, 18, 0.19);
   border-radius: 29px;
 }
 
 .card-border{
   padding: 25px 40px 24px 27px;
 }
+
+
+#webinar-join-btn{
+  background-image: linear-gradient(#62d18d, #1b904e);
+  border-radius: 14px;
+  padding: 12px 53px;
+}
+
+.web-details{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 120px;
+}
+
+.instructor{
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #F9F9F9;
+  padding: 72px 80px 150px 0px;
+}
+
+
+
 
 
 /* Media query For Responsiveness */
