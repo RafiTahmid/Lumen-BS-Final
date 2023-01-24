@@ -85,7 +85,7 @@
 }
 
 .top-categories {
-  margin-top: 80px;
+  margin-top: 40px;
 }
 
 .navbar {
@@ -93,6 +93,7 @@
 }
 
 .development-section {
+  padding-bottom: 40px;
   margin-top: 40px;
   display: flex;
   justify-content: space-between;
@@ -182,9 +183,39 @@
   margin-top: 80px;
   display: flex;
   justify-content: space-evenly;
-  background-color: #F9F9F9;
   padding: 72px 80px 130px 0px;
+ 
+  /* z-index: -1; */
 }
+
+.background-color{
+  background-color: #F9F9F9;
+  
+  
+}
+
+.users{
+  display: flex;
+  background: white;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 120px;
+  width: 242px;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px 4px 0 rgba(29, 28, 28, 0.2), 0 6px 20px 0 rgba(19, 18, 18, 0.19);
+
+}
+
+.card-section{
+  display: flex;
+  justify-content:space-around;
+  margin-top: -60px;
+  position: relative;
+  z-index: 5;
+  
+}
+
 
 .student-thought-body{
   margin-bottom: 180px;
@@ -307,3 +338,6 @@
 
   
 }
+
+
+

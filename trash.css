@@ -47,3 +47,42 @@ d-flex justify-content-between mt-5 .content-section {
   border-radius: 6px;
   background: #FFA425;
 }
+
+<section class="container card-section">
+<div class="users-cards">
+  <div class="users">
+    <img src="./assets/images/lumen-home/001-team.png" alt="">
+    <div class="div">
+      <p>5000+</p>
+      <p><small>USERS</small></p>
+    </div>
+  </div>
+</div>
+<div class="users-cards">
+  <div class="users">
+    <img src="./assets/images/lumen-home/003-presentation.png" alt="">
+    <div class="div">
+      <p>5000+</p>
+      <p><small>INSTRUCTORS</small></p>
+    </div>
+  </div>
+</div>
+<div class="users-cards">
+  <div class="users">
+    <img src="./assets/images/lumen-home/004-read 1.png" alt="">
+    <div class="div">
+      <p>5000+</p>
+      <p><small>STUDENTS</small></p>
+    </div>
+  </div>
+</div>
+<div class="users-cards">
+  <div class="users">
+    <img src="./assets/images/lumen-home/004-online-course.png" alt="">
+    <div class="div">
+      <p>5000+</p>
+      <p><small>COURSES</small></p>
+    </div>
+  </div>
+</div>
+</section>
